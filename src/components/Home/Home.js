@@ -53,7 +53,7 @@ export default class Home extends Component {
                 </div>
                 <div className="virtical-line"></div>
                 <div>
-                    <img className="big-img" src={MyImage} alt="Image" />
+                    <img className="big-img" src={MyImage} alt="MyImage" />
                     <div
                         className="Platforms"
                         style={{ textDecoration: "none" }}
@@ -61,16 +61,19 @@ export default class Home extends Component {
                         <a
                             href="https://twitter.com/MirageKamran1"
                             target="_blank"
+                            rel="noreferrer"
                             class="fab fa-twitter fa-border fa-2x"
                         ></a>
                         <a
                             href="https://www.linkedin.com/in/mirage-kamran/"
                             target="_blank"
+                            rel="noreferrer"
                             class="fab fa-linkedin fa-border fa-2x"
                         ></a>
                         <a
                             href="https://github.com/miragekamran"
                             target="_blank"
+                            rel="noreferrer"
                             class="fab fa-github fa-border fa-2x"
                         ></a>
                     </div>
