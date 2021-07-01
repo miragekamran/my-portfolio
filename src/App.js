@@ -4,7 +4,7 @@ import Contact from './components/Contact/Contact.js';
 import Home from './components/Home/Home.js';
 import Projects from './components/Projects/Projects';
 import Resume from './components/Resume/Resume';
-import { Route, Link } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 
 

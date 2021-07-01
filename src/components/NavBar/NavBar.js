@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { MenuItems } from "../Menu/MenuItems";
-import { Button } from "../Button/Button";
+// import { Button } from "../Button/Button";
 import "./NavBar.css";
 import Image from '../Images/portfolio-image.png';
 
