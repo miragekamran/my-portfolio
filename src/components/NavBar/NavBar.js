@@ -16,7 +16,7 @@ export default class Navbar extends Component {
             <nav className="NavbarItems">
                 <h1 className="navbar-logo">
                     Mirage Kamran
-                    <img className="img" src={MyImage} alt="Image" />
+                    <img className="my-img" src={MyImage} alt="MyImage" />
                 </h1>
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i
