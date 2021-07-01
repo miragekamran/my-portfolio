@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Image from '../Images/portfolio-image.png';
+import MyImage from '../Images/portfolio-aks.png';
 import './Home.css'
 
 export default class Home extends Component {
@@ -53,8 +53,11 @@ export default class Home extends Component {
                 </div>
                 <div className="virtical-line"></div>
                 <div>
-                    <img className="big-img" src={Image} alt="Image" />
-                    <div className="Platforms" style={{textDecoration: "none"}}>
+                    <img className="big-img" src={MyImage} alt="Image" />
+                    <div
+                        className="Platforms"
+                        style={{ textDecoration: "none" }}
+                    >
                         <a
                             href="https://twitter.com/MirageKamran1"
                             target="_blank"
