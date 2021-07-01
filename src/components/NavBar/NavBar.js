@@ -40,7 +40,7 @@ export default class Navbar extends Component {
                         );
                     })}
                 </ul>
-                <Button>Sign Up</Button>
+                {/* <Button>Sign Up</Button> */}
             </nav>
         );
     }
