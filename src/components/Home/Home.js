@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import MyImage from '../Images/portfolio-aks.png';
-import './Home.css'
+import React, { Component } from "react";
+import MyImage from "../Images/portfolio-aks.png";
+import "./Home.css";
 
 export default class Home extends Component {
     render() {
@@ -54,28 +54,28 @@ export default class Home extends Component {
                 <div className="virtical-line"></div>
                 <div>
                     <img className="big-img" src={MyImage} alt="MyImage" />
-                    <div
-                        className="Platforms"
-                        style={{ textDecoration: "none" }}
-                    >
+                    <div className="Platforms">
                         <a
                             href="https://twitter.com/MirageKamran1"
                             target="_blank"
                             rel="noreferrer"
-                            class="fab fa-twitter fa-border fa-2x"
-                        ></a>
+                        >
+                            <i class="fab fa-twitter fa-border fa-2x" />
+                        </a>
                         <a
                             href="https://www.linkedin.com/in/mirage-kamran/"
                             target="_blank"
                             rel="noreferrer"
-                            class="fab fa-linkedin fa-border fa-2x"
-                        ></a>
+                        >
+                            <i class="fab fa-linkedin fa-border fa-2x" />
+                        </a>
                         <a
                             href="https://github.com/miragekamran"
                             target="_blank"
                             rel="noreferrer"
-                            class="fab fa-github fa-border fa-2x"
-                        ></a>
+                        >
+                            <i class="fab fa-github fa-border fa-2x" />
+                        </a>
                     </div>
                 </div>
             </div>
