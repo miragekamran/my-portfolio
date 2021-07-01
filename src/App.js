@@ -12,22 +12,11 @@ import { Route, Link } from 'react-router-dom';
 export default function App() {
   return (
       <div className="App">
-          
-        <Navbar />
-              
+        <Navbar />     
         <Route exact path='/' component={Home} />
         <Route exact path='/projects' component={Projects} />
         <Route exact path='/resume' component={Resume}/>
         <Route path='/contact-me' component={Contact}/>
-          
-{/*               
-          <header className="App-header">
-              <img src={HeaderImage} className="App-header-photo" />
-              <p className="App-header-title">
-                  Welcome to My Technical Portfolio
-              </p>
-          </header> */}
-          
     </div>
   );
 }
