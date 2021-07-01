@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { MenuItems } from "../Menu/MenuItems";
 // import { Button } from "../Button/Button";
 import "./NavBar.css";
-import Image from '../Images/portfolio-image.png';
+import MyImage from "../Images/portfolio-aks.png";
 
 export default class Navbar extends Component {
     state = { clicked: false };
@@ -15,8 +15,8 @@ export default class Navbar extends Component {
         return (
             <nav className="NavbarItems">
                 <h1 className="navbar-logo">
-                    Mirage Kamran<img className="img" src={Image} alt='Image'/>
-                    
+                    Mirage Kamran
+                    <img className="img" src={MyImage} alt="Image" />
                 </h1>
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i
