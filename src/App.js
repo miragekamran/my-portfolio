@@ -1,5 +1,4 @@
 import './App.css';
-// import HeaderImage from './images/portfolio-image.png';
 import Navbar from './components/Navbar/Navbar';
 import Contact from './components/Contact/Contact.js';
 import Home from './components/Home/Home.js';
