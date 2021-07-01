@@ -71,3 +71,96 @@
   /* text-decoration: none; */
   
 }
+
+@media screen and (max-width: 1388px) {
+
+    .home {
+        margin-top: 50px;
+    }
+
+    .bio-outer-box {
+        line-height: 1.5em;
+    }
+
+    .bio-inner-box {
+        line-height: 1.5em;  
+    }
+
+    .virtical-line {
+        margin-left: 80px;
+        margin-right: 80px;
+    }
+
+    @media screen and (max-width: 1024px) {
+        .home {
+            margin-top: 50px;
+        }
+
+        .bio-outer-box {
+            line-height: 1.5em;
+        }
+
+        .bio-inner-box {
+            line-height: 1.5em;  
+        }
+
+        .virtical-line {
+            margin-left: 30px;
+            margin-right: 30px;
+        }        
+    }
+
+    @media screen and (max-width: 740px) {
+        .home {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            /* margin-top: 30px; */
+            margin-top: 50px;
+        }
+
+        .bio-outer-box {
+            line-height: 1.5em;
+            width: 80%;
+        }
+
+        .bio-inner-box {
+            line-height: 1.5em;  
+        }
+
+        .virtical-line {
+            display: none;
+            /* margin-left: 30px;
+            margin-right: 30px; */
+        }
+
+        .big-img {
+            margin-top: 50px;
+            width: 400px;
+        }
+        
+        .Platforms {
+            margin-bottom: 20px;
+        }
+    }
+
+    @media screen and (max-width: 380px) {
+
+        .big-img {
+            width: 250px;
+        }
+
+        .home {
+            margin-top: 0px;
+        }
+
+        .bio-outer-box {
+            width: 100%;
+        }
+
+        .Tech-skills-section-skills {
+            font-size: 15px;
+        }
+    }
+}
