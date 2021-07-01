@@ -57,16 +57,11 @@
 
 .img {
     /* display: flex; */
-    
     /* justify-content: center;
     align-items: center; */
     margin-left: 10px;
     width: 35px;
     border-radius: 50%;
-
-    
-    
-
 }
 
 @media screen and (max-width: 1388px) {
