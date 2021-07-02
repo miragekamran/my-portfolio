@@ -123,7 +123,7 @@
 
         .bio-outer-box {
             line-height: 1.5em;
-            width: 80%;
+            width: 100%;
         }
 
         .bio-inner-box {
@@ -146,15 +146,15 @@
         }
     }
 
-    @media screen and (max-width: 380px) {
+    @media screen and (max-width: 450px) {
 
         .big-img {
             width: 250px;
         }
 
-        .home {
+        /* .home {
             margin-top: 0px;
-        }
+        } */
 
         .bio-outer-box {
             width: 100%;
