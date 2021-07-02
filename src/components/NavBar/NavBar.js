@@ -3,6 +3,8 @@ import { MenuItems } from "../Menu/MenuItems";
 // import { Button } from "../Button/Button";
 import "./NavBar.css";
 import MyImage from "../Images/portfolio-aks.png";
+import { Link } from 'react-router-dom';
+
 
 export default class Navbar extends Component {
     state = { clicked: false };
@@ -14,10 +16,15 @@ export default class Navbar extends Component {
     render() {
         return (
             <nav className="NavbarItems">
-                <div className="navbar-logo">
-                    <h1>Mirage Kamran</h1>
-                    <img className="my-img" src={MyImage} alt="MyImage" />
-                </div>
+                <Link
+                    to="/"
+                    style={{ textDecoration: "none", color: "inherit" }}
+                >
+                    <div className="navbar-logo">
+                        <h1>Mirage Kamran</h1>
+                        <img className="my-img" src={MyImage} alt="MyImage" />
+                    </div>
+                </Link>
 
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i
