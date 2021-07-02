@@ -3,7 +3,8 @@ import { MenuItems } from "../Menu/MenuItems";
 // import { Button } from "../Button/Button";
 import "./NavBar.css";
 import MyImage from "../Images/portfolio-aks.png";
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
+
 
 
 export default class Navbar extends Component {
