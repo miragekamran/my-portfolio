@@ -3,7 +3,7 @@ import { MenuItems } from "../Menu/MenuItems";
 // import { Button } from "../Button/Button";
 import "./NavBar.css";
 import MyImage from "../Images/portfolio-aks.png";
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 
 
