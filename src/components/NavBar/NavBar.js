@@ -14,10 +14,11 @@ export default class Navbar extends Component {
     render() {
         return (
             <nav className="NavbarItems">
-                <h1 className="navbar-logo">
-                    Mirage Kamran
+                <div className="navbar-logo">
+                    <h1>Mirage Kamran</h1>
                     <img className="my-img" src={MyImage} alt="MyImage" />
-                </h1>
+                </div>
+
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i
                         className={
