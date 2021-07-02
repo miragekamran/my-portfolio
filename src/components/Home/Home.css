@@ -98,6 +98,7 @@
 
         .bio-outer-box {
             line-height: 1.5em;
+
         }
 
         .bio-inner-box {
@@ -113,11 +114,11 @@
     @media screen and (max-width: 740px) {
         .home {
             display: flex;
-            flex-direction: column;
+            flex-direction: column-reverse;
             justify-content: center;
             align-items: center;
             /* margin-top: 30px; */
-            margin-top: 50px;
+            margin-top: 30px;
         }
 
         .bio-outer-box {
@@ -141,7 +142,7 @@
         }
         
         .Platforms {
-            margin-bottom: 20px;
+            margin-bottom: 50px;
         }
     }
 
