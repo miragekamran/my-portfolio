@@ -5,6 +5,7 @@ import Home from './components/Home/Home.js';
 import Projects from './components/Projects/Projects';
 import Resume from './components/Resume/Resume';
 import { Route } from 'react-router-dom';
+import React from 'react';
 
 
 

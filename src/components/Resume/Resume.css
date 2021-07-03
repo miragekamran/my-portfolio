@@ -1,4 +1,4 @@
-.contact {
+.resume {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -6,11 +6,21 @@
     margin-top: 30px;
 }
 
-.contact-outer-box {
+.resume-outer-box {
     border: solid 1px;
     width: 45%;
     padding: 10px;
     margin-left: 140px;
     background-color: lightgrey;
     line-height: 2em;
+}
+
+.resume-inner-box {
+    border: solid 1px;
+    border-radius: 10px;
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    line-height: 2em;
+    font-size: 18px;
 }

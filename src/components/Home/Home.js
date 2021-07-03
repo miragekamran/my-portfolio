@@ -58,21 +58,21 @@ export default class Home extends Component {
                         <a
                             href="https://twitter.com/MirageKamran1"
                             target="_blank"
-                            rel="noreferrer"
+                            rel="noopener noreferrer"
                         >
                             <i class="fab fa-twitter fa-border fa-2x" />
                         </a>
                         <a
                             href="https://www.linkedin.com/in/mirage-kamran/"
                             target="_blank"
-                            rel="noreferrer"
+                            rel="noopener noreferrer"
                         >
                             <i class="fab fa-linkedin fa-border fa-2x" />
                         </a>
                         <a
                             href="https://github.com/miragekamran"
                             target="_blank"
-                            rel="noreferrer"
+                            rel="noopener noreferrer"
                         >
                             <i class="fab fa-github fa-border fa-2x" />
                         </a>

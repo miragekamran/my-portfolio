@@ -11,17 +11,37 @@ export default class Projects extends Component {
                     <div className="projects-outer-box">
                         <h3>Project Details</h3>
                         <p className="projects-inner-box">
-                            Hello, my name is Mirage Kamran. I am graduated from
-                            Lambda School. I also earned my Asociates Degree in
-                            Computer Science from Yuba College in California.
-                            The web applications and programs that I have been
-                            using in a day to day life have fascinated me by how
-                            much they are making life easier and the curiosity
-                            of how they all are being created is what has
-                            attracted me to take the new journey, and learn. Now
-                            I am ready and excited to utilize the knowledge I
-                            have gained to build applications and programs that
-                            can bring more value to the world.
+                            Anyone can go out and buy a cookbook these days, but
+                            I want a place to store all my secret family
+                            recipes, handed down from generation to generation.
+                            The little cards my grandma wrote the recipes on in
+                            her beautiful cursive are getting lost or are hard
+                            to read. I need somewhere secure to keep my recipes
+                            with me at all times!
+                            <br></br>
+                            Secret Family Recipes is a full-stack react
+                            application that allows users to save and share
+                            their most valuable recipes with other users.
+                            <br></br>
+                            <h4>Languages and Libraries</h4>
+                            Javascript | React | Redux | HTML | CSS | Postgres |
+                            Express | NodeJS
+                            <li>
+                                I Worked as a front end user interface developer
+                                on a team of 5 full-stack developers, including
+                                myself.{" "}
+                            </li>
+                            <li>
+                                I Created and designed forms and react
+                                components to allow users to interact with the
+                                web application in the span of 4 days.
+                            </li>
+                            <li>
+                                I Collaborated with other front end developers
+                                and backend developers on the team, to design
+                                the user flows of the application after coming
+                                up with different user stories.
+                            </li>
                         </p>
                     </div>
                     <br></br>
@@ -41,7 +61,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://github.com/miragekamran/sec-fam-recipe"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn1">
                                     See The Code
@@ -50,7 +70,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://sec-family-recipes.netlify.app/"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn2">
                                     See The Deployed Site
@@ -64,17 +84,37 @@ export default class Projects extends Component {
                     <div className="projects-outer-box">
                         <h3>Project Details</h3>
                         <p className="projects-inner-box">
-                            Hello, my name is Mirage Kamran. I am graduated from
-                            Lambda School. I also earned my Asociates Degree in
-                            Computer Science from Yuba College in California.
-                            The web applications and programs that I have been
-                            using in a day to day life have fascinated me by how
-                            much they are making life easier and the curiosity
-                            of how they all are being created is what has
-                            attracted me to take the new journey, and learn. Now
-                            I am ready and excited to utilize the knowledge I
-                            have gained to build applications and programs that
-                            can bring more value to the world.
+                            Anyone can go out and buy a cookbook these days, but
+                            I want a place to store all my secret family
+                            recipes, handed down from generation to generation.
+                            The little cards my grandma wrote the recipes on in
+                            her beautiful cursive are getting lost or are hard
+                            to read. I need somewhere secure to keep my recipes
+                            with me at all times!
+                            <br></br>
+                            Secret Family Recipes is a full-stack react
+                            application that allows users to save and share
+                            their most valuable recipes with other users.
+                            <br></br>
+                            <h4>Languages and Libraries</h4>
+                            Javascript | React | Redux | HTML | CSS | Postgres |
+                            Express | NodeJS
+                            <li>
+                                I Worked as a front end user interface developer
+                                on a team of 5 full-stack developers, including
+                                myself.{" "}
+                            </li>
+                            <li>
+                                I Created and designed forms and react
+                                components to allow users to interact with the
+                                web application in the span of 4 days.
+                            </li>
+                            <li>
+                                I Collaborated with other front end developers
+                                and backend developers on the team, to design
+                                the user flows of the application after coming
+                                up with different user stories.
+                            </li>
                         </p>
                     </div>
                     <br></br>
@@ -94,7 +134,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://github.com/miragekamran/sec-fam-recipe"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn1">
                                     See The Code
@@ -103,7 +143,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://sec-family-recipes.netlify.app/"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn2">
                                     See The Deployed Site
@@ -117,17 +157,37 @@ export default class Projects extends Component {
                     <div className="projects-outer-box">
                         <h3>Project Details</h3>
                         <p className="projects-inner-box">
-                            Hello, my name is Mirage Kamran. I am graduated from
-                            Lambda School. I also earned my Asociates Degree in
-                            Computer Science from Yuba College in California.
-                            The web applications and programs that I have been
-                            using in a day to day life have fascinated me by how
-                            much they are making life easier and the curiosity
-                            of how they all are being created is what has
-                            attracted me to take the new journey, and learn. Now
-                            I am ready and excited to utilize the knowledge I
-                            have gained to build applications and programs that
-                            can bring more value to the world.
+                            Anyone can go out and buy a cookbook these days, but
+                            I want a place to store all my secret family
+                            recipes, handed down from generation to generation.
+                            The little cards my grandma wrote the recipes on in
+                            her beautiful cursive are getting lost or are hard
+                            to read. I need somewhere secure to keep my recipes
+                            with me at all times!
+                            <br></br>
+                            Secret Family Recipes is a full-stack react
+                            application that allows users to save and share
+                            their most valuable recipes with other users.
+                            <br></br>
+                            <h4>Languages and Libraries</h4>
+                            Javascript | React | Redux | HTML | CSS | Postgres |
+                            Express | NodeJS
+                            <li>
+                                I Worked as a front end user interface developer
+                                on a team of 5 full-stack developers, including
+                                myself.{" "}
+                            </li>
+                            <li>
+                                I Created and designed forms and react
+                                components to allow users to interact with the
+                                web application in the span of 4 days.
+                            </li>
+                            <li>
+                                I Collaborated with other front end developers
+                                and backend developers on the team, to design
+                                the user flows of the application after coming
+                                up with different user stories.
+                            </li>
                         </p>
                     </div>
                     <br></br>
@@ -147,7 +207,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://github.com/miragekamran/sec-fam-recipe"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn1">
                                     See The Code
@@ -156,7 +216,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://sec-family-recipes.netlify.app/"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn2">
                                     See The Deployed Site
@@ -170,17 +230,37 @@ export default class Projects extends Component {
                     <div className="projects-outer-box">
                         <h3>Project Details</h3>
                         <p className="projects-inner-box">
-                            Hello, my name is Mirage Kamran. I am graduated from
-                            Lambda School. I also earned my Asociates Degree in
-                            Computer Science from Yuba College in California.
-                            The web applications and programs that I have been
-                            using in a day to day life have fascinated me by how
-                            much they are making life easier and the curiosity
-                            of how they all are being created is what has
-                            attracted me to take the new journey, and learn. Now
-                            I am ready and excited to utilize the knowledge I
-                            have gained to build applications and programs that
-                            can bring more value to the world.
+                            Anyone can go out and buy a cookbook these days, but
+                            I want a place to store all my secret family
+                            recipes, handed down from generation to generation.
+                            The little cards my grandma wrote the recipes on in
+                            her beautiful cursive are getting lost or are hard
+                            to read. I need somewhere secure to keep my recipes
+                            with me at all times!
+                            <br></br>
+                            Secret Family Recipes is a full-stack react
+                            application that allows users to save and share
+                            their most valuable recipes with other users.
+                            <br></br>
+                            <h4>Languages and Libraries</h4>
+                            Javascript | React | Redux | HTML | CSS | Postgres |
+                            Express | NodeJS
+                            <li>
+                                I Worked as a front end user interface developer
+                                on a team of 5 full-stack developers, including
+                                myself.{" "}
+                            </li>
+                            <li>
+                                I Created and designed forms and react components
+                                to allow users to interact with the web
+                                application in the span of 4 days.
+                            </li>
+                            <li>
+                                I Collaborated with other front end developers and
+                                backend developers on the team, to design the
+                                user flows of the application after coming up
+                                with different user stories.
+                            </li>
                         </p>
                     </div>
                     <br></br>
@@ -200,7 +280,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://github.com/miragekamran/sec-fam-recipe"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn1">
                                     See The Code
@@ -209,7 +289,7 @@ export default class Projects extends Component {
                             <a
                                 href="https://sec-family-recipes.netlify.app/"
                                 target="_blank"
-                                rel="noreferrer"
+                                rel="noopener noreferrer"
                             >
                                 <button className="code-btn2">
                                     See The Deployed Site
