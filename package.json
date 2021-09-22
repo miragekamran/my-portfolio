@@ -45,5 +45,8 @@
   },
   "devDependencies": {
     "copy-webpack-plugin": "^9.0.1"
-  }
+  },
+  "browser":{
+    "child_process": false
+  } 
 }
