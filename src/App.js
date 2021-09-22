@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from './components/NavBar/NavBar';
-import Contact from './components/Contact/Contact.js';
-import Home from './components/Home/Home.js';
+import Contact from './components/Contact/Contact';
+import Home from './components/Home/Home';
 import Projects from './components/Projects/Projects';
 import Resume from './components/Resume/Resume';
 import { Route } from 'react-router-dom';
