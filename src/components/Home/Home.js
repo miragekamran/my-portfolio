@@ -70,7 +70,7 @@ export default class Home extends Component {
                             <i class="fab fa-linkedin fa-border fa-2x" />
                         </a>
                         <a
-                            href="https://github.com/miragekamran"
+                            href="https://www.linkedin.com/in/miragekamran/"
                             target="_blank"
                             rel="noopener noreferrer"
                         >
