@@ -1,0 +1,10 @@
+.Mes {
+  text-align: center;
+  max-width: 300px;
+  margin: 20px auto;
+}
+Form {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  padding: 20px;
+}
