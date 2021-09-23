@@ -8,7 +8,7 @@ import { Route } from 'react-router-dom';
 import React from 'react';
 import Message from './components/Contact/Message';
 import 'semantic-ui-css/semantic.min.css';
-import Email from './components/Contact/Email';
+// import Email from './components/Contact/Email';
 
 
 
