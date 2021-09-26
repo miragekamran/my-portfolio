@@ -1,26 +1,34 @@
-.resume {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin-top: 30px;
+.App {
+  font-family: sans-serif;
+  text-align: center;
 }
 
-.resume-outer-box {
-    border: solid 1px;
-    width: 45%;
-    padding: 10px;
-    margin-left: 140px;
-    background-color: lightgrey;
-    line-height: 2em;
+button {
+  margin-right: 10px;
+  background: #3f51b5;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  width: 200px;
+  cursor: pointer;
+  box-shadow: 2px 2px 2px 1px #ccc;
 }
 
-.resume-inner-box {
-    border: solid 1px;
-    border-radius: 10px;
-    width: 100%;
-    padding: 20px;
-    background-color: white;
-    line-height: 2em;
-    font-size: 18px;
+/* For pdf */
+.react-pdf__Page {
+  margin-top: 0px;
+}
+.react-pdf__Page__textContent {
+  border: 1px solid darkgrey;
+  box-shadow: 5px 5px 5px 1px #ccc;
+  border-radius: 5px;
+}
+
+.react-pdf__Page__annotations.annotationLayer {
+  padding: 0px;
+  
+}
+
+.react-pdf__Page__canvas {
+  margin: 0 auto;
 }
