@@ -6,7 +6,7 @@ export default class Projects extends Component {
     render() {
         console.log(this.props);
         return (
-            <div>
+            <div className="main-container">
                 <div className="projects">
                     <div className="projects-outer-box">
                         <h3>Project Details</h3>
