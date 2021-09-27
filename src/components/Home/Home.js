@@ -24,6 +24,14 @@ export default class Home extends Component {
                     <h3>Technical Skills</h3>
                     <div className="Tech-skills-section-skills">
                         <p className="Tech-skill">Javascript</p>
+                        <p className="Tech-skill">Java</p>
+                        <p className="Tech-skill">Jenkens</p>
+                        <p className="Tech-skill">Cucumber</p>
+                        <p className="Tech-skill">TestNG</p>
+                        <p className="Tech-skill">REST Assured</p>
+                        <p className="Tech-skill">Selenium</p>
+                        <p className="Tech-skill">API Testing</p>
+                        <p className="Tech-skill">Postman</p>
                         <p className="Tech-skill">HTML</p>
                         <p className="Tech-skill">CSS</p>
                         <p className="Tech-skill">LESS</p>
@@ -34,7 +42,7 @@ export default class Home extends Component {
                         <p className="Tech-skill">Automated Unit Testing</p>
                         <p className="Tech-skill">Integration Testing</p>
                         <p className="Tech-skill">Debugging</p>
-                        <p className="Tech-skill"> Deployment</p>
+                        <p className="Tech-skill">Deployment</p>
                         <p className="Tech-skill">Node.js</p>
                         <p className="Tech-skill">RESTful APIs</p>
                         <p className="Tech-skill">End-To-End Testing</p>
@@ -44,10 +52,10 @@ export default class Home extends Component {
                         <p className="Tech-skill">SQLite Testing</p>
                         <p className="Tech-skill">Authentication</p>
                         <p className="Tech-skill">Python</p>
-                        <p className="Tech-skill"> Data Structures</p>
+                        <p className="Tech-skill">Data Structures</p>
                         <p className="Tech-skill">Algorithms</p>
                         <p className="Tech-skill">Computer Architecture</p>
-                        <p className="Tech-skill"> Big-O Notation</p>
+                        <p className="Tech-skill">Big-O Notation</p>
                         <p className="Tech-skill">Graphs</p>
                     </div>
                 </div>

@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Document, Page, pdfjs } from "react-pdf";
 import "./Resume.css";
-import resume from "../Documents/MIRAGE-KAMRAN.pdf";
+// import resume from "../Documents/MIRAGE-KAMRAN.pdf";
+import QAResume from '../Documents/MIRAGE-KAMRAN-QA.pdf';
 
 
 
@@ -18,7 +19,7 @@ export default function Resume(props) {
     return (
         <>
             <>
-                <a href={resume} download>
+                <a href={QAResume} download>
                     <br></br>
                     <button>
                         <span>
@@ -27,7 +28,7 @@ export default function Resume(props) {
                         </span>
                     </button>
                 </a>
-                <Document file={resume} onLoadSuccess={onDocumentLoadSuccess}>
+                <Document file={QAResume} onLoadSuccess={onDocumentLoadSuccess}>
                     {Array.from(new Array(numPages), (el, index) => (
                         <Page
                             key={`page_${index + 1}`}
