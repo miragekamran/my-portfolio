@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Document, Page, pdfjs } from "react-pdf";
 import "./Resume.css";
 // import resume from "../Documents/MIRAGE-KAMRAN.pdf";
-import QAResume from '../Documents/MIRAGE-KAMRAN-QA.pdf';
+import QAResume from "../Documents/MirageKamran_SDET.pdf";
 
 
 
